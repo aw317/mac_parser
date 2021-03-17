@@ -1,0 +1,6 @@
+services:
+  macaddress:
+    address: https://api.macaddress.io/v1
+    token: ${TOKEN}
+    token_key: X-Authentication-Token
+    output_format: vendor
