@@ -1,5 +1,3 @@
-## restApiParsesr
-
 Toolboox for comand line communication with REST APi-s.
 
 ### mac_parser.py
